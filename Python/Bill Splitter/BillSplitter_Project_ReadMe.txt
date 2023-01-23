@@ -13,4 +13,4 @@ Split your bill into equal shares.
 Stage 3/4: The Lucky One
 Pick one name from the dictionary and make them lucky!
 Stage 4/4: Party is over
-Update the split values and print the final dictionary to settle the bill..
+Update the split values and print the final dictionary to settle the bill.
